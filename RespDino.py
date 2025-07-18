@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import os
+DISCORD_TOKEN = os.environ["DISCORD_TOKEN"]
 
 import sys
 import os

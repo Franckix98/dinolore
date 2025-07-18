@@ -1,0 +1,5 @@
+# Client Discord
+discord.py>=2.0.0,<3.0.0
+
+# Si vous voulez charger DISCORD_TOKEN et DISCORD_GUILD depuis un .env
+python-dotenv>=1.0.0,<2.0.0
